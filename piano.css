@@ -1,0 +1,176 @@
+#header,
+#midsection,
+#content,
+canvas
+{
+	width:844px;
+	margin:auto;
+}
+
+#textos{
+	margin-top: 250px;
+text-align: center;
+font-size: 30px;
+color: white;
+}
+
+#c{
+z-index: -1;
+}
+
+#myCanvas2{
+z-index: 1;
+}
+
+#midsection{
+	position: relative;
+
+}
+
+*
+{
+		font-family: 'Ubuntu', serif;
+}
+h1
+{
+	font-size:64px;
+	color:white;
+	display:inline-block;
+	margin-top:1px;
+	margin-bottom:1px;
+}
+h1 span
+{
+	display:inline-block;
+	padding-top:-10px;
+    font-family: 'Century Gothic', serif;
+
+}
+
+#header
+{
+	margin-top:40px;
+	margin-bottom:30px;
+
+}
+
+#header img {
+	margin-top:10px;
+	float:left;
+}
+
+canvas
+{
+	/*display:block;*/
+
+	background: transparent;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+
+ .textos{
+
+
+     font-size: 100px;
+
+
+
+}
+
+
+
+#GhostBtn{
+
+     padding-top: 160px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 0;
+     width: 100%;
+}
+
+#content
+{
+
+}
+
+select
+{
+	float:right;
+	margin:auto;
+	display:block;
+	margin-top:30px;
+}
+
+
+body {
+
+    background-color: #103040;
+
+	margin:0px;
+	padding:0px;
+}
+canvas {
+
+}
+
+#logoHead{
+
+    max-width: 100 px;
+    width: 53px;
+    height: 53px;
+    padding-right: 30px;
+
+}
+
+.myButton {
+
+
+
+
+     width: 200px;
+
+  line-height: 25px;
+	display:inline-block;
+    text-decoration: none;
+    text-align: center;
+     outline: none;
+	cursor:pointer;
+    margin: 0 auto;
+	color: #fff;
+   background-color: transparent;
+  border: 2px solid #fff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+    border-radius: 5px;
+      transition: width 0.3s ease-out,
+              height 0.3s ease-out,
+              line-height 0.3s ease-out;
+
+}
+
+
+.myButton:hover, .myButton:active {
+
+
+  color: #fff;
+
+    border-color: #fff;
+
+
+background-color: #6E787F;
+  transition: color 0.3s ease-in,
+              background-color 0.3s ease-in,
+              border-color 0.3s ease-in;
+}
+
+
+
+.myButton:active {
+	position:relative;
+	top:4px;
+
+}
