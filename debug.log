@@ -1,0 +1,108 @@
+[0223/153501.997:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/153501.998:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/153502.001:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/153502.001:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/153502.004:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/153502.005:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/153502.011:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/153502.011:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/153502.014:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/153502.015:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/153502.017:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/153502.017:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163143.444:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163143.525:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163143.531:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163143.531:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163143.558:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163143.558:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163143.609:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163143.609:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163143.614:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163143.614:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163143.619:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163143.619:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163213.699:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163213.699:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163213.702:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163213.702:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163213.705:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163213.705:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163213.721:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163213.721:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163213.734:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163213.734:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/163213.738:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/163213.738:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183516.190:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183516.211:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183516.214:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183516.214:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183516.221:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183516.221:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183516.228:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183516.228:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183516.232:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183516.232:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183516.240:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183516.240:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183546.294:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183546.294:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183546.300:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183546.300:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183546.306:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183546.306:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183546.315:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183546.315:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183546.321:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183546.321:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/183546.328:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/183546.328:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235518.797:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235518.804:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235518.808:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235518.808:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235518.814:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235518.814:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235518.829:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235518.829:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235518.835:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235518.835:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235518.842:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235518.842:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235548.936:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235548.936:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235548.942:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235548.942:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235548.946:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235548.946:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235548.953:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235548.953:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235548.960:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235548.960:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0223/235548.965:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0223/235548.965:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005506.206:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005506.207:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005506.211:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005506.211:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005506.216:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005506.216:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005506.224:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005506.224:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005506.234:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005506.234:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005506.239:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005506.239:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005536.374:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005536.374:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005536.374:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005536.374:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005536.389:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005536.389:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005536.421:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005536.421:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005536.437:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005536.437:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
+[0224/005536.440:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6f6d0000 of 64 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[0224/005536.440:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WININET.dll
